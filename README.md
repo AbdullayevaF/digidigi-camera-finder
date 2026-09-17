@@ -1,4 +1,4 @@
-# Gidigidi 📷
+# DigiDigi 📷
 
 A beginner-friendly camera discovery platform that helps users find the right camera based on their needs, budget, experience level, and photography goals.
 
@@ -14,7 +14,7 @@ Most camera websites focus heavily on technical specifications such as sensor si
 
 For beginners, these specifications often make the decision-making process more difficult instead of easier.
 
-Gidigidi aims to simplify this experience by helping users choose a camera based on what they actually want to do with it.
+DigiDigi aims to simplify this experience by helping users choose a camera based on what they actually want to do with it.
 
 ---
 
@@ -33,7 +33,7 @@ First-time camera buyers often:
 
 ## Target Users
 
-Gidigidi is primarily designed for:
+DigiDigi is primarily designed for:
 
 - First-time camera buyers
 - Smartphone photographers looking to upgrade
@@ -46,7 +46,7 @@ Gidigidi is primarily designed for:
 
 ## Project Goal
 
-The goal of Gidigidi is to make buying a first camera:
+The goal of DigiDigi is to make buying a first camera:
 
 - Easier
 - Faster
@@ -54,7 +54,7 @@ The goal of Gidigidi is to make buying a first camera:
 - More personalized
 - Less intimidating
 
-Instead of asking users to understand camera specifications first, Gidigidi translates their needs into suitable camera recommendations.
+Instead of asking users to understand camera specifications first, DigiDigi translates their needs into suitable camera recommendations.
 
 ---
 
@@ -196,7 +196,7 @@ Findings and design iterations will be documented here.
 
 ## Design System
 
-The Gidigidi design system will include:
+The DigiDigi design system will include:
 
 - Color system
 - Typography
