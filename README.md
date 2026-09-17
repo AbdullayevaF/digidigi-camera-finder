@@ -165,7 +165,7 @@ The research will focus on understanding:
 ![Liam Brooks Persona](docs/personas/Liam_Brooks_Persona.jpg)
 
 ### Noah Bennett — Enthusiast Beginner
-![Noah Bennett Persona](docs/personas/Noah_Bennett_Persona.jpg)
+![Noah Bennett Persona](docs/personas/Noah_Bennett_Persona.png)
 
 [Download the full User Personas PDF](docs/personas/DigiDigi_User_Personas.pdf)
 
