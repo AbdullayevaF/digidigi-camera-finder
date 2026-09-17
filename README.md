@@ -158,7 +158,16 @@ The research will focus on understanding:
 
 ## Personas
 
-Coming soon.
+### Emma Carter — First-Time Camera Buyer
+![Emma Carter Persona](docs/personas/Emma_Carter_Persona.jpg)
+
+### Liam Brooks — Travel & Content Creator
+![Liam Brooks Persona](docs/personas/Liam_Brooks_Persona.jpg)
+
+### Noah Bennett — Enthusiast Beginner
+![Noah Bennett Persona](docs/personas/Noah_Bennett_Persona.jpg)
+
+[Download the full User Personas PDF](docs/personas/DigiDigi_User_Personas.pdf)
 
 ---
 
