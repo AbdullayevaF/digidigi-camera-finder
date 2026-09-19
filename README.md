@@ -173,7 +173,11 @@ The research will focus on understanding:
 
 ## User Flow
 
-Coming soon.
+The DigiDigi user flow maps the journey from onboarding and authentication to the app's five main areas: Home, Finder, Community, Compare, and Saved.
+
+![DigiDigi User Flow](docs/user-flow/DigiDigi_User_Flow.png)
+
+[View the full User Flow PDF](docs/user-flow/DigiDigi_User_Flow.pdf)
 
 ---
 
