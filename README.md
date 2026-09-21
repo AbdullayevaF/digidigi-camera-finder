@@ -181,9 +181,21 @@ The DigiDigi user flow maps the journey from onboarding and authentication to th
 
 ---
 
-## Wireframes
+## Low-Fidelity Wireframes
 
-Coming soon.
+The initial DigiDigi wireframes were sketched on paper to quickly explore the app structure, navigation, and core user journeys before moving into high-fidelity design.
+
+The wireframes focus on the main experience across Home, Camera Finder, personalized recommendations, Camera Details, Community, Compare, Saved, and Profile.
+
+### Problem
+
+First-time camera buyers are often overwhelmed by technical specifications and struggle to understand which camera best fits their actual needs, budget, and photography goals.
+
+DigiDigi aims to simplify this process by providing a guided, beginner-friendly camera discovery experience.
+
+![DigiDigi Low-Fidelity Wireframes](docs/wireframes/DigiDigi_Low_Fidelity_Wireframes.png)
+
+[View the full Wireframes PDF](docs/wireframes/DigiDigi_Low_Fidelity_Wireframes.pdf)
 
 ---
 
