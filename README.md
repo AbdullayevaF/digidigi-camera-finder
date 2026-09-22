@@ -181,7 +181,7 @@ The DigiDigi user flow maps the journey from onboarding and authentication to th
 
 ---
 
-## Low-Fidelity Wireframes
+## Low-Fidelity Screens
 
 The initial DigiDigi wireframes were sketched on paper to quickly explore the app structure, navigation, and core user journeys before moving into high-fidelity design.
 
@@ -197,6 +197,16 @@ DigiDigi aims to simplify this process by providing a guided, beginner-friendly 
 
 [View the full Wireframes PDF](docs/wireframes/DigiDigi_Low_Fidelity_Wireframes.pdf)
 
+
+### High-Fidelity Screens
+
+![DigiDigi High-Fidelity UI](docs/high-fidelity/DigiDigi_High_Fidelity_UI.png)
+
+[View the High-Fidelity UI PDF](docs/high-fidelity/DigiDigi_High_Fidelity_UI.pdf)
+
+### Figma
+
+[View the editable DigiDigi High-Fidelity Design in Figma](https://www.figma.com/design/iwy5612fOg2cebfUGUAYPF/DigiDigi?node-id=69-1117&t=MeJYHhaAo4ssloz5-1)
 ---
 
 ## Final UI
