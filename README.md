@@ -235,6 +235,14 @@ DigiDigi aims to simplify this process by providing a guided, beginner-friendly 
 ### Figma
 
 [View the editable DigiDigi High-Fidelity Design in Figma](https://www.figma.com/design/iwy5612fOg2cebfUGUAYPF/DigiDigi?node-id=69-1117&t=MeJYHhaAo4ssloz5-1)
+
+
+## Usability Testing
+
+The report highlights usability observations, key issues, and suggested improvements for the next design iteration.
+
+[View the Usability Test Report](docs/usability-testing/DigiDigi_Usability_Test_Report.pdf)
+
 ---
 
 ## Final UI
