@@ -142,7 +142,7 @@ The project will follow an end-to-end UX design process:
 
 ---
 
-## User Research
+## User Research (Week 2)
 
 A bilingual Azerbaijani–English survey was conducted to understand how beginner users research, compare, and choose cameras.
 
@@ -157,6 +157,30 @@ The findings highlighted key needs around:
 ![DigiDigi User Research Summary](docs/user-research/DigiDigi_Week2_User_Research_Summary.png)
 
 [View the full User Research Summary PDF](docs/user-research/DigiDigi_Week2_User_Research_Summary.pdf)
+
+
+## User Journey Map & Information Architecture (Week 2)
+
+Based on the research findings and the Emma Carter persona, I mapped the end-to-end journey of a beginner camera buyer from initial discovery to a confident purchase decision.
+
+The journey map covers:
+- User actions
+- User thoughts
+- Emotional changes
+- Pain points
+- Design opportunities
+- Key touchpoints
+
+The Information Architecture defines the core DigiDigi structure around five primary destinations:
+- Home
+- Finder
+- Community
+- Compare
+- Saved
+
+![DigiDigi User Journey Map & IA](docs/journey-map-ia/DigiDigi_Week2_User_Journey_Map_IA.png)
+
+[View the full User Journey Map & Information Architecture PDF](docs/journey-map-ia/DigiDigi_Week2_User_Journey_Map_IA.pdf)
 
 ---
 
