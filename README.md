@@ -142,17 +142,21 @@ The project will follow an end-to-end UX design process:
 
 ---
 
-## Research
+## User Research
 
-Research is currently in progress.
+A bilingual Azerbaijani–English survey was conducted to understand how beginner users research, compare, and choose cameras.
 
-The research will focus on understanding:
+The findings highlighted key needs around:
+- Value-for-money confidence
+- Beginner-friendly explanations
+- Personalized recommendations
+- Easier camera comparison
+- Real-world sample photos and videos
+- Trust signals for used-camera listings
 
-- How beginners currently choose cameras
-- Which parts of the buying process are confusing
-- Which information users consider most important
-- Which camera specifications are difficult to understand
-- What increases confidence during a purchase decision
+![DigiDigi User Research Summary](docs/user-research/DigiDigi_Week2_User_Research_Summary.png)
+
+[View the full User Research Summary PDF](docs/user-research/DigiDigi_Week2_User_Research_Summary.pdf)
 
 ---
 
