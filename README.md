@@ -245,6 +245,32 @@ The report highlights usability observations, key issues, and suggested improvem
 
 ---
 
+## Week 3 — Design System, Responsive Design & Accessibility
+
+During Week 3, DigiDigi was refined into a more consistent, responsive, and accessible product experience.
+
+The work focused on strengthening the design system, adapting the main product screens for mobile and desktop, and reviewing accessibility and usability across the interface.
+
+### Design System
+
+The DigiDigi design system defines the core visual foundations of the product, including typography, colors, spacing, border radius, and responsive grid behavior.
+
+[View the DigiDigi Design System PDF](docs/design-system/DigiDigi_Week3_Design_System.pdf)
+
+### Responsive Design
+
+The main DigiDigi screens were adapted for mobile and desktop layouts while preserving the same visual identity, content hierarchy, and user experience.
+
+[View the DigiDigi Responsive Design PDF](docs/responsive-design/DigiDigi_Week3_Responsive_Design.pdf)
+
+### Accessibility & Design Improvements
+
+A quality review was completed covering contrast, readability, touch targets, form usability, navigation clarity, and usability refinements.
+
+[View the Accessibility & Design Improvements PDF](docs/design-improvements/DigiDigi_Week3_Design_Improvements.pdf)
+
+---
+
 ## Final UI
 
 Coming soon.
@@ -254,32 +280,6 @@ Coming soon.
 ## Prototype
 
 Figma prototype will be added here.
-
----
-
-## Usability Testing
-
-Usability testing will be conducted with beginner or first-time camera buyers.
-
-Findings and design iterations will be documented here.
-
----
-
-## Design System
-
-The DigiDigi design system will include:
-
-- Color system
-- Typography
-- Spacing system
-- Grid
-- Buttons
-- Form elements
-- Camera cards
-- Comparison components
-- Navigation
-- Icons
-- Responsive components
 
 ---
 
